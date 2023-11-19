@@ -1,4 +1,4 @@
-<span style="font-size: 18px;"><b> Создание механизма прогнозирования успешности компьютерных игр (по открытым данным). </span></b>
+<span style="font-size: 20px;"><b> Создание механизма прогнозирования успешности компьютерных игр (по открытым данным). </span></b>
 
 [ipyb](https://github.com/polina508/portfolio/blob/5d4eadc84be7b701bcca438ae416766032130b10/comp_games_research/comp_games_research.ipynb)
 
