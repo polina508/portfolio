@@ -14,11 +14,11 @@
 - проверку гипотез статистическими методами.
 
 ## Навыки и инструменты.
-python
-pandas
-numpy
-matplotlib
-seaborn
+python  
+pandas  
+numpy  
+matplotlib  
+seaborn  
 scipy.stats
 
 ## Общий вывод.
