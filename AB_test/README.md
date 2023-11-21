@@ -1,6 +1,6 @@
 <span style="font-size: 18px;"><b> А/В тестрование. </span></b>
 
-[ipyb](https://github.com/polina508/portfolio/blob/b8401f10f61f5a2618f3f6059b446e6deea02cd2/AB_test/A_B_test.ipynb)
+[ipyb](A_B_test.ipynb)
 
 ## Описание проекта
 
