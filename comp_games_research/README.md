@@ -1,6 +1,6 @@
 <span style="font-size: 20px;"><b> Создание механизма прогнозирования успешности компьютерных игр (по открытым данным). </span></b>
 
-[ipyb](https://github.com/polina508/portfolio/blob/c138a5b0a0edb658e8bde20706e8f26e38699036/comp_games_research/comp_games_research.ipynb)
+[ipyb](comp_games_research.ipynb)
 
 ## Описание проекта.
 Проект по данным из открытых источников для интернет-магазина, продающего компьютерные игры по всему миру.
