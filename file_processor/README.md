@@ -3,7 +3,7 @@
 [ipyb](обработчик.ipynb)
 
 ## Описание проекта.
-Проект по данным из открытых источников из годового отчёта главного онколога Миздрава России.
+Проект по данным из открытых источников (из годового отчёта главного онколога Миздрава России).
 
 **Цель проекта:** Преобразование 138 xlsx файлов с таблицами, мало пригодными к анализу, в 4 датасета, готовых для дальнейшей работы. Таблицы содержат информацию о заболеваемости и смертности от онкологических заболеваний, а так же о состоянии онко-помощи в регионах РФ.
 
@@ -28,8 +28,8 @@ re
 ## Результат.
 Данные переорганизованы и подготовлены для дальнейшего анализа. 
 
-Итоговые таблицы:
-[Состояние_онко_помощи_лечение](https://docs.google.com/spreadsheets/d/1GlkbPKtB7-iS8Nqioe9FVqxgmbxf6KuS-hgcgdJb6MQ)
-[Состояние_онко_помощи_контингент](https://docs.google.com/spreadsheets/d/10hXq4zzDZcGI7Y_VSIYHxmA8x891hEu6zDLMSaMDfiI)
-[Состояние_онко_помощи_контингент_вкл2](https://docs.google.com/spreadsheets/d/1tnyQOEBTJgH4IKya754y3wpGaR7kovry-26NKc302GQ)
+Итоговые таблицы:  
+[Состояние_онко_помощи_лечение](https://docs.google.com/spreadsheets/d/1GlkbPKtB7-iS8Nqioe9FVqxgmbxf6KuS-hgcgdJb6MQ)  
+[Состояние_онко_помощи_контингент](https://docs.google.com/spreadsheets/d/10hXq4zzDZcGI7Y_VSIYHxmA8x891hEu6zDLMSaMDfiI)  
+[Состояние_онко_помощи_контингент_вкл2](https://docs.google.com/spreadsheets/d/1tnyQOEBTJgH4IKya754y3wpGaR7kovry-26NKc302GQ)  
 [Злокачественные_новообразования_заболеваемость_и_смертность](https://docs.google.com/spreadsheets/d/1AsSU5bg51t62I6ayMzxwPaqyc4EXeTz3fgc_7klaa0E)
