@@ -28,6 +28,9 @@ re
 ## Результат.
 Данные переорганизованы и подготовлены для дальнейшего анализа. 
 
+Пример исходных данных:
+[2021_Таблица_051_Состояние_онко_помощи_в_РФ.xlsx](2021_Таблица_051_Состояние_онко_помощи_в_РФ.xlsx)  
+
 Итоговые таблицы:  
 [Состояние_онко_помощи_лечение](https://docs.google.com/spreadsheets/d/1GlkbPKtB7-iS8Nqioe9FVqxgmbxf6KuS-hgcgdJb6MQ)  
 [Состояние_онко_помощи_контингент](https://docs.google.com/spreadsheets/d/10hXq4zzDZcGI7Y_VSIYHxmA8x891hEu6zDLMSaMDfiI)  
